@@ -25,11 +25,11 @@ https://github.com/entbappy/Kidney-Disease-Classification-MLflow-DVC
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n cnncls python=3.8 -y
+conda create -n kdc python=3.10 -y
 ```
 
 ```bash
-conda activate cnncls
+conda activate kdc
 ```
 
 
